@@ -4,14 +4,13 @@ qgisMinimumVersion=3.16
 description=A QGIS processing tool designed to batch process marine geophysical profile data from multiple cruises into individual shapefiles.
 version=1.0.0
 author=Muhammed Anshif K K
-email=your_email@example.com
+email=anshifshaz@gmail.com
 
 about=Batch processes profile data files (.xygk, .gmb, .xymk, .dat) from multiple cruises into individual shapefiles with auto-grouping, data sanitation, custom baseline leveling, and auto/manual azimuth support. Developed with coding assistance from Gemini and Claude.
 
 tracker=https://github.com/Anshif-k/qgis-wiggleplot-plugin/issues
 repository=https://github.com/Anshif-k/qgis-wiggleplot-plugin
 
-# Tags are comma separated with spaces allowed
 tags=marine, geophysics, wiggles, gravity, magnetic, batch, processing
 category=Plugins
 icon=icon.png
