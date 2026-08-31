@@ -1,0 +1,16 @@
+[general]
+name=WigglePlot
+qgisMinimumVersion=3.22
+qgisMaximumVersion=3.99
+description=Automated batch plotting of marine gravity, and magnetic anomaly wiggle lines with trend removal.
+version=1.0.0
+author=Muhammed Anshif K K
+email=anshifshaz@gmail.com
+about=Batch processes marine profile data (.xygk, .xymk, .gmb, .dat ...etc) from multiple cruises into individual styled shapefiles with 1D detrending, standard polarity azimuths, and error sentinel filtering.
+tracker=https://github.com/yourusername/wiggleplot/issues
+repository=https://github.com/yourusername/wiggleplot
+category=Analysis
+tags=geophysics, marine, gravity, magnetic, wiggle plot, seafloor spreading
+experimental=False
+deprecated=False
+icon=icon.png
