@@ -11,7 +11,7 @@ about=Batch processes profile data files (.xygk, .gmb, .xymk, .dat) from multipl
 tracker=https://github.com/Anshif-k/qgis-wiggleplot-plugin/issues
 repository=https://github.com/Anshif-k/qgis-wiggleplot-plugin
 
-tags=marine, geophysics, wiggles, gravity, magnetic, batch, processing
+tags=marine, geophysics, wiggles, gravity, magnetic, batch, processing, profiles, cruise data
 category=Plugins
 icon=icon.png
 experimental=False
